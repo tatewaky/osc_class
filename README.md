@@ -1,1 +1,1 @@
-# osc_class
+Este proyecto es para las clases internas de OSC
