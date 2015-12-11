@@ -1,0 +1,11 @@
+name: Jason Testing Module
+type: module
+description: Un Ejemplo de un modulo de operaciones puede hacer.
+package: OSC
+dependencies:
+  - views
+
+version: '8.0.1'
+core: '8.x'
+
+

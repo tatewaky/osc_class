@@ -1,0 +1,6 @@
+email_example.description:
+  path: 'examples/email_example'
+  defaults:
+    _form: '\Drupal\email_example\Form\EmailExampleGetFormPages2'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,5 @@
+email_example.description:
+  title: 'E-mail Example: contact form'
+  description: 'Callback for generating form.'
+  route_name: email_example.description
+  menu_name: here it is

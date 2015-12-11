@@ -1,0 +1,4 @@
+jason_module.description:
+  path: '/jason/prueba'  
+  requirements:
+    _permission: 'access content'

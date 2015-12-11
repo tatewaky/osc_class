@@ -1,0 +1,7 @@
+name: Email Example
+type: module
+description: Ejemplo general de email para la clase numero 2 osc.
+package: OSC
+
+version: '8.0.1'
+core: '8.x'
